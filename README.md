@@ -1,6 +1,5 @@
 # Student_Guide
-### I build this project when I was in my first year and I won the first place on my class.
-
+### I built this project during my first year, and I achieved the first place in my class.
 # This show some important data for students
 <a href="https://ibb.co/kc2Vwbj"><img src="https://i.ibb.co/bd5jCwT/1.png" alt="1" border="0"></a>
 # Help students to choose the classes and then save it in an excel file.
